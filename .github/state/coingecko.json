@@ -222,6 +222,10 @@
           "base_denom": "ibc/B9E4FD154C92D3A23BEA029906C4C5FF2FE74CB7E3A058290B77197A263CF88B"
         },
         {
+          "chain_name": "dungeon",
+          "base_denom": "ibc/489C406A3029B50486F991E468CB8A7D5F039757327A40B0684C530BFF96C543"
+        },
+        {
           "chain_name": "dydx",
           "base_denom": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5"
         },
@@ -397,6 +401,10 @@
           "base_denom": "uatone"
         },
         {
+          "chain_name": "dungeon",
+          "base_denom": "ibc/295196BD505E32B9679BA0CFDB70B4FF2AADE80A3B73A2F234284D7A709844DA"
+        },
+        {
           "chain_name": "osmosis",
           "base_denom": "ibc/BC26A7A805ECD6822719472BCB7842A48EF09DF206182F8F259B2593EB5D23FB"
         }
@@ -418,6 +426,10 @@
         {
           "chain_name": "beezee",
           "base_denom": "ibc/82931180F0962712BFABB189083A94C77EA90E269ABFC6D310AF922B2B14E011"
+        },
+        {
+          "chain_name": "dungeon",
+          "base_denom": "ibc/BD2C670DB4465BCB862F988EF4FD7595C56AE2ECB9CC9EF14AF7A776091E88AE"
         }
       ],
       "origin_asset": {
@@ -764,6 +776,10 @@
           "base_denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518"
         },
         {
+          "chain_name": "dungeon",
+          "base_denom": "ibc/AC72F1D0BF72A358CD9D7E3AC8F868F96EDA9042DE00A72DB4AEA859065B7EB5"
+        },
+        {
           "chain_name": "dyson",
           "base_denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B"
         },
@@ -893,29 +909,6 @@
       "origin_asset": {
         "chain_name": "jackal",
         "base_denom": "ujkl"
-      }
-    },
-    {
-      "coingecko_id": "omniflix-network",
-      "name": "OmniFlix Network",
-      "symbol": "FLIX",
-      "assets": [
-        {
-          "chain_name": "beezee",
-          "base_denom": "ibc/FF39851E73089ACBD0B09BDF62FA3C67FBD77A2CD97CD159DBCE9C770561F8AF"
-        },
-        {
-          "chain_name": "omniflixhub",
-          "base_denom": "uflix"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/CEE970BB3D26F4B907097B6B660489F13F3B0DA765B83CC7D9A0BC0CE220FA6F"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "omniflixhub",
-        "base_denom": "uflix"
       }
     },
     {
@@ -1368,6 +1361,10 @@
           "base_denom": "uatom"
         },
         {
+          "chain_name": "dungeon",
+          "base_denom": "ibc/C3988DBA4BA195F3514EA2E02497B9F66019CE53EFB96D4982CE95CA6A51BBCE"
+        },
+        {
           "chain_name": "elys",
           "base_denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
         },
@@ -1612,7 +1609,7 @@
     },
     {
       "coingecko_id": "coreum",
-      "name": "Coreum",
+      "name": "Coreum [OLD]",
       "symbol": "COREUM",
       "assets": [
         {
@@ -2468,33 +2465,6 @@
       }
     },
     {
-      "coingecko_id": "racoon",
-      "name": "Racoon",
-      "symbol": "RAC",
-      "assets": [
-        {
-          "chain_name": "juno",
-          "base_denom": "cw20:juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa"
-        },
-        {
-          "chain_name": "migaloo",
-          "base_denom": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/urac"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/6BDB4C8CCD45033F9604E4B93ED395008A753E01EECD6992E7D1EA23D9D3B788"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/DDF1CD4CDC14AE2D6A3060193624605FF12DEE71CF1F8C19EEF35E9447653493"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "migaloo",
-        "base_denom": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/urac"
-      }
-    },
-    {
       "coingecko_id": "backbone-labs-staked-juno",
       "name": "Backbone Labs Staked JUNO",
       "symbol": "BJUNO",
@@ -2548,25 +2518,6 @@
       }
     },
     {
-      "coingecko_id": "kava-swap",
-      "name": "Kava Swap",
-      "symbol": "SWP",
-      "assets": [
-        {
-          "chain_name": "kava",
-          "base_denom": "swp"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/70CF1A54E23EA4E480DEDA9E12082D3FD5684C3483CBDCE190C5C807227688C5"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "kava",
-        "base_denom": "swp"
-      }
-    },
-    {
       "coingecko_id": "usdx",
       "name": "USDX",
       "symbol": "USDX",
@@ -2583,29 +2534,6 @@
       "origin_asset": {
         "chain_name": "kava",
         "base_denom": "usdx"
-      }
-    },
-    {
-      "coingecko_id": "ki",
-      "name": "KI",
-      "symbol": "XKI",
-      "assets": [
-        {
-          "chain_name": "kichain",
-          "base_denom": "uxki"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/B547DC9B897E7C3AA5B824696110B8E3D2C31E3ED3F02FF363DCBAD82457E07E"
-        },
-        {
-          "chain_name": "kichaintestnet",
-          "base_denom": "utki"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "kichain",
-        "base_denom": "uxki"
       }
     },
     {
@@ -2794,7 +2722,7 @@
     },
     {
       "coingecko_id": "mantra-dao",
-      "name": "MANTRA",
+      "name": "MANTRA [Old]",
       "symbol": "OM",
       "assets": [
         {
@@ -3724,25 +3652,6 @@
       "origin_asset": {
         "chain_name": "terra2",
         "base_denom": "cw20:terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
-      }
-    },
-    {
-      "coingecko_id": "stride-staked-umee",
-      "name": "Stride Staked Umee",
-      "symbol": "STUMEE",
-      "assets": [
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/02F196DA6FD0917DD5FEA249EE61880F4D941EE9059E7964C5C9B50AF103800F"
-        },
-        {
-          "chain_name": "stride",
-          "base_denom": "stuumee"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "stride",
-        "base_denom": "stuumee"
       }
     },
     {
@@ -5992,21 +5901,6 @@
       "origin_asset": {
         "chain_name": "sui",
         "base_denom": "0x2::sui::SUI"
-      }
-    },
-    {
-      "coingecko_id": "tinkernet",
-      "name": "Tinkernet",
-      "symbol": "TNKR",
-      "assets": [
-        {
-          "chain_name": "tinkernet",
-          "base_denom": "Planck"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "tinkernet",
-        "base_denom": "Planck"
       }
     },
     {
