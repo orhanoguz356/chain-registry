@@ -1836,8 +1836,7 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png",
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.svg"
         }
-      ],
-      "coingecko_id": "ki"
+      ]
     },
     {
       "description": "Panacea is a public blockchain launched by MediBloc, which is the key infrastructure for reinventing the patient-centered healthcare data ecosystem",
@@ -3214,8 +3213,7 @@
           },
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/rac.png"
         }
-      ],
-      "coingecko_id": "racoon"
+      ]
     },
     {
       "description": "Frax is a fractional-algorithmic stablecoin protocol. It aims to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC. Additionally, FXS is the value accrual and governance token of the entire Frax ecosystem.",
@@ -4101,8 +4099,7 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/swp.png",
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/swp.svg"
         }
-      ],
-      "coingecko_id": "kava-swap"
+      ]
     },
     {
       "description": "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.",
@@ -8807,8 +8804,7 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omniflixhub/images/flix.png",
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omniflixhub/images/flix.svg"
         }
-      ],
-      "coingecko_id": "omniflix-network"
+      ]
     },
     {
       "description": "Spacer",
@@ -9832,8 +9828,7 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stumee.png",
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stumee.svg"
         }
-      ],
-      "coingecko_id": "stride-staked-umee"
+      ]
     },
     {
       "denom_units": [
@@ -13046,8 +13041,7 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rac.png",
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rac.svg"
         }
-      ],
-      "coingecko_id": "racoon"
+      ]
     },
     {
       "description": "GUPPY",
